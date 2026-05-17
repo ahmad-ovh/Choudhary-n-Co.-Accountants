@@ -36,9 +36,9 @@ export const metadata: Metadata = {
     siteName: 'Choudhary & Co. Accountants',
     images: [
       {
-        url: 'https://choudhary-n-co-accountants.vercel.app/images/og-image.png',
-        width: 800,
-        height: 600,
+        url: 'https://choudhary-n-co-accountants.vercel.app/images/og-image.jpg',
+        width: 1200,
+        height: 630,
         alt: 'Professional accounting advice and financial consulting at Choudhary & Co. Accountants',
       },
     ],
@@ -49,7 +49,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Maximize Your Business Profits | Choudhary & Co. ST6',
     description: 'Reliable, fixed-fee accounting & tax services for Stoke-on-Trent sole traders and SMEs. Secure MTD compliance and claim all reliefs. Book a free consultation!',
-    images: ['https://choudhary-n-co-accountants.vercel.app/images/og-image.png'],
+    images: ['https://choudhary-n-co-accountants.vercel.app/images/og-image.jpg'],
   },
 }
 
