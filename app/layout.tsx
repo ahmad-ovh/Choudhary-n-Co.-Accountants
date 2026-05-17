@@ -32,11 +32,11 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'Minimize Tax & Boost Profits | Choudhary & Co. ST6',
     description: 'Stop overpaying tax. Get expert fixed-fee VAT, bookkeeping, and tax preparation in Stoke-on-Trent. Claim all eligible reliefs. Book a free advice session!',
-    url: 'https://choudharyaccountants.co.uk',
+    url: 'https://choudhary-n-co-accountants.vercel.app',
     siteName: 'Choudhary & Co. Accountants',
     images: [
       {
-        url: 'https://choudhary-n-co-accountants.vercel.app/og-image.png',
+        url: 'https://choudhary-n-co-accountants.vercel.app/images/og-image.png',
         width: 800,
         height: 600,
         alt: 'Professional accounting advice and financial consulting at Choudhary & Co. Accountants',
@@ -49,7 +49,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Maximize Your Business Profits | Choudhary & Co. ST6',
     description: 'Reliable, fixed-fee accounting & tax services for Stoke-on-Trent sole traders and SMEs. Secure MTD compliance and claim all reliefs. Book a free consultation!',
-    images: ['https://choudhary-n-co-accountants.vercel.app/og-image.png'],
+    images: ['https://choudhary-n-co-accountants.vercel.app/images/og-image.png'],
   },
 }
 
